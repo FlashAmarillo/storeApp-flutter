@@ -1,4 +1,4 @@
-# yes_no_app
+# storeApp
 
 A new Flutter project.
 
